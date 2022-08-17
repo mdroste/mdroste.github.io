@@ -21,6 +21,13 @@ table {
   }
 }
 
+.obfuscate { unicode-bidi: bidi-override; direction: rtl; }
+
+btn-cv {
+  color: #f2f2f2;
+  background-color: #f2f2f2 !important;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
