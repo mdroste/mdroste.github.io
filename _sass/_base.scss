@@ -31,10 +31,11 @@ table {
   word-wrap: break-word;
   white-space: normal;
   cursor: pointer;
-  border: 1px;
-  border-radius: 0.125rem;
+  border: 1px solid var(--global-text-color);
+  border-radius: 0.325rem;
   padding: 0.84rem 2.14rem;
   font-size: .81rem;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%), 0 1px 1px 0 rgb(0 0 0 / 12%);
 }
 
 .pull-right {
