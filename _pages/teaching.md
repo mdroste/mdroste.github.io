@@ -22,7 +22,7 @@ I enjoy teaching, and have had the pleasure to work on some great undergraduate 
 ##### Economics 2450A: Public Economics and Fiscal Policy I
   - Fall 2022, with [Stefanie Stantcheva](https://scholar.harvard.edu/stantcheva/home)
 
-##### Econometrics Math Camp.
+##### Econometrics Math Camp
   - Summer 2020 and 2021 ([materials](http://www.github.com/mdroste/metrics-mathcamp-2021))
 
 As an undergraduate student at Swarthmore, I was a teaching assistant for single-variable calculus (with [Cheryl Grood](https://grood.domains.swarthmore.edu/)), linear algebra (with [Scott Cook](https://faculty.tarleton.edu/scook/)), introductory econometrics (with [Erin Bronchetti](https://www.swarthmore.edu/profile/erin-todd-bronchetti)), and intermediate econometrics (with [Phillip Jefferson](https://www.federalreserve.gov/aboutthefed/bios/board/jefferson.htm)).
