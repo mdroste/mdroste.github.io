@@ -12,6 +12,10 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+.font-weight-semibold {
+  font-weight: 500!important;
+}
+
 table {
   td, th {
     color: var(--global-text-color);
