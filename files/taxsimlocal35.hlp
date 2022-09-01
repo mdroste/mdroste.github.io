@@ -1,0 +1,160 @@
+{smcl}
+{* 19 July 2020}{...}
+{hline}
+help for {it:{hi:taxsim32}}                                         
+{hline}
+
+{title:NBER TAXSIM model for federal and state income taxes}
+
+{title:Description}
+
+{p 8 18 2}
+{cmdab:taxsim32}[,{cmdab:f:ull} 
+{cmdab:s:econdary}|{cmdab:w:ages}|{cmdab:i:nterest}|{cmdab:l:ong} 
+{cmdab:d:ebug} {cmdab:r:eplace}]
+
+{p 4 4 2}calculates federal and state income tax liability from 32 input 
+variables.  These variables are defined in your current workspace 
+before calling taxsim.  The program returns values for various tax return 
+concepts, taxes, credits, and marginal tax rates as new named variables in 
+a taxsim_out.dta or merged into your current workspace. 
+
+{p 4 4 2}The tax calculator itself is the same FORTRAN program that the 
+NBER has been updating annually since 1974, but with a simplified input 
+file (no income averaging or rental loss limit, etc). This interface 
+merely packages up your data and sends it via the Internet to NBER for the 
+actual calculations, which are returned and merged into your current 
+dataset. No tax calculations are done on your computer, although there is 
+limited range checking of your data.
+
+{title:Input Variables:}
+
+{p 4 4 2}The names and definitions of the 32 input and 41 output variables
+are given on the Taxsim web page - 
+{browse "http://www.nber.org/taxsim/taxsim32"} . Please study that page - 
+it contains vital information.
+
+{p 4 4 2}Not all variables are required. Only {cmd:year} and {cms:mstat}
+are necessary. Unspecified dollar amounts default to zero, taxpayer ages 
+default to 50 and all dependent ages to under 13 if not otherwise 
+specified.
+
+{title:Options}
+
+{p 4 4 2}{cmd:full:} Return many intermediate calculations (taxable 
+income, regular tax, individual credits, etc. All the returned variables 
+have labels defined in taxsim32.ado - use "describe" to get the full list 
+or browse the web page below.
+
+{p 4 4 2}{cmd:secondary:}  Calculate marginal tax rates with respect to
+the secondary wage earner. The default is with respect to the primary wage
+earner.
+
+{p 4 4 2}{cmd:wages:} Calculate marginal tax rates with respect to a
+weighted average of the primary and secondary wage earner.
+
+{p 4 4 2}{cmd:interest:}  Calculate marginal tax rates with respect to
+interest income.
+
+{p 4 4 2}{cmd:long:}  Calculate marginal tax rates with respect to
+long term gains.
+
+{p 4 4 2}{cmd:replace:} Merge the taxsim output file into the workspace, 
+possibly overwriting existing variables. Otherwise output is saved to 
+taxsim_out.dta in the current directory. You can run taxsim multiple times 
+with the replace option set and the results will not change unless you 
+change the input data or procedure options.
+
+{title:Notes:}
+
+{p 4 4 2} When installing {cmd:taxsimlocal32} you have to include
+the {cmd:all} option for the tax calculator to be downloaded. Calculators
+are available for Windows, Linux and OSX.
+
+{p 4 4 2}Dollar amounts are rounded to the nearest penny before
+transmission to the calculator, and calculated amounts are similarly
+treated.
+
+{p 4 4 2}Extreme marginal tax rates due to notches should be filtered
+out by the user. 
+
+{p 4 4 2} {cmd:taxsimlocal32} requires that taxsim32.exe be installed
+in the same directory as itself. Both files are available from {browse 
+http://www.nber.org/stata}
+
+
+{title:Example:}
+{p 4 8 2}{cmd:. input state year mstat ltcg}
+
+{p 4 8 2}{cmd:. 0 1970 2 100000}
+
+{p 4 8 2}{cmd:. end}
+
+{p 4 8 2}{cmd:. taxsim32, full interest replace}{p_end}
+
+{p 4 4 2} The example posits a married taxpayer with $100,000 of long term 
+capital gains, and returns the marginal tax rate with respect to interest 
+income, among other values. The correct result for fiitax is 16,700.04.
+
+{title:Support:}
+
+{p 4 4 2}Dan Feenberg would like to speak with anyone using this program - 
+give him a call after you have done some experimenting, but before 
+investing a lot of time and certainly before submitting for publication. 
+If you encounter bugs please prepare a test case with no more than 3 
+observations and run with the following settings:
+
+
+{p 4 8 2}{cmd:. log using foo,text}
+
+{p 4 4 2}and also with trace on:
+
+{p 4 8 2}{cmd:. set trace on}
+   
+{p 4 4 2}and with the debug option for taxsim:
+
+{p 4 8 2}{cmd:. taxsim32}
+
+{p 4 4 2}Send the files txpydata.raw,results.raw, and msg.txt files from 
+/tmp (Unix) or c:\user\loginid\downloads with your message. If there is no 
+results.raw file, that probably means that communication was blocked.
+
+{p 4 4 2}Be sure to provide Stata test runs with the smallest possible 
+dataset that demonstrates the problem (preferably one record), run with 
+the debug flag set, and attach the debug files. But always follow the 
+instructions below.
+
+{p 4 4 2}If any tax calculation surprises you, please enter the taxpayer 
+data in the web form mentioned below. A detailed explanation of the 
+calculation will be returned, which may remind you of a code feature or 
+interaction you were unaware of. If you still think the calculation is 
+wrong, follow the instructions given there for sending bug reports. We are 
+very responsive to these communications - they do result in improvements 
+to the calculator, generally within a day or two. But please send us a 
+single record demonstrating the error, not a large file. Most users 
+anticipate we need to be encouraged to respond by the possibility that the 
+error is common and submit large files to demonstrate that. This is not 
+true and we will respond with a request that the file be cut down.
+
+{p 4 4 2}See {browse "http://www.nber.org/taxsim/taxsim32/"} the TAXSIM 
+web site for additional information about the tax caculator. Although that 
+is the interface for the Web version of taxsim, there is much valuable 
+information there about the operation of the program and the calculation 
+of marginal rates which may surprise you. The same fortran code is used 
+for http, ftp, Stata, SAS and R interfaces.
+
+{p 4 4 2}A general description of Taxsim is given in 
+{browse "http://www.nber.org/taxsim/feenberg-coutts.pdf"}.
+
+{col 5}Daniel Feenberg      
+{col 5}feenberg@nber.org                    
+{col 5}617-863-0343
+
+{p 4 13 2}
+Online:  help for {help taxsim32}
+{p_end}
+
+{p 4 13 2}
+Web: {browse "http://www.nber.org/taxsim/taxsim32"}
+{p_end}
+

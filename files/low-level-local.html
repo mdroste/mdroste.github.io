@@ -1,0 +1,129 @@
+<html><head>
+<title>Low Level Interface to Local Taxsim35</title>
+</head>
+
+<body>
+
+
+<h3>Installation of Taxsim35</h3>
+
+The staticly linked taxsim35 AMD64 binary executable file is available at 
+one of these URLs:
+
+<ul>
+<li><a href="https://taxsim.nber.org/taxsim35/taxsim35-windows.exe">
+   http://taxsim.nber.org/stata/taxsim35/taxsim35-windows.exe</a>
+<li><a href="https://taxsim.nber.org/stata/taxsim35/taxsim35-osx.exe">
+   http://taxsim.nber.org/stata/taxsim35/taxsim35-osx.exe</a>
+<li><a href="https://taxsim.nber.org/stata/taxsim35/taxsim35-unix.exe">
+   http://taxsim.nber.org/stata/taxsim35/taxsim35-unix.exe (Linux)</a>
+<li><a 
+href="https://taxsim.nber.org/stata/taxsim35/taxsim.wasm">
+   http://taxsim.nber.org/stata/taxsim35/taxsim.wasm 
+(Linux)</a>
+
+</ul>
+
+Download the file and copy it to someplace on your system, 
+perhaps in the default executable path for convenience. You 
+should rename it taxsim35.exe to correspond to the example 
+below but other name changes may cause problems..
+
+<h4>Testing</h4>
+
+Prepare a simple ASCII test file in csv format - we will call it 
+txpydata.raw:
+
+<xmp>
+taxsimid,mstat,year,ltcg
+1,2,1970,100000
+</xmp>
+
+and submit it to taxsim35.exe:
+
+<xmp>
+taxsim35.exe <txpydata.raw
+</xmp>
+
+You should receive a 2-line csv file in reply. If not, check the existence 
+and permissions (Linux and OSX) on the executable file. 
+
+<p>
+For taxsim.wasm the command would be:
+
+<xmp>
+cat txpydata.raw | node -e "requires(taxsim.js)"
+</xmp>
+
+<h4>Format of submissions</h4>
+
+taxsim35 expects to read a csv file with taxpayer data. The first row will 
+be the variable names as documented at <a 
+href="http://taxsim.nber.org/taxsim35"> 
+href="http://taxsim.nber.org/taxsim35 </a> and each of the remaining rows 
+corresponds to a tax return. <p>In addition to the taxpayer characteristic 
+variables, variable <b>mtr</b>
+
+<h4>Additional Controls</h4>
+
+If the default marginal tax rate calculation or level of detail is not
+to your liking, it is possible to change either with additiona variables. A
+
+<p>These values of <b>mtr</b> affect the marginal tax calculation are:
+
+<ul>
+<li>11 - Wages
+<li>70 - Long term capital gains
+<li>85 - Primary wage earner
+<li>86 - Secondary wage earner
+</ul>
+
+<p>
+These values of <b>idtl</b> affect the output level:
+
+<ul>
+<li>0 - standard
+<li>2 - full
+<li>5 - with text description
+</ul>
+
+<p>For example descriptive output with several different marginal tax rates:
+<xmp>
+taxsimid,mstat,year,ltcg,mtr,idtl
+1,2,1970,100000,11,5
+1,2,1970,100000,70,5
+1,2,1970,100000,85,5
+1,2,1970,100000,86,5
+</xmp>
+
+<h4>Problems</h4>
+
+The most likely problem is:
+
+<xmp>
+taxsim35: not found
+</xmp>
+
+or something similar. Other problems would be non-decimal characters in 
+the data (such as missing value codes) or non-ascii data. Check your data 
+in notepad or similar. If there are data problems, an explicit error 
+message will be output to the standard output and execution will cease.
+
+<h4>Source Code</h4>
+
+Unlike the programs of professional programmers, taxsim35.for has no 
+dependencies, uses no non-standard libraries and will compile on any 
+computer with a fortran compiler with a single command:
+
+<xmp>
+gfortran taxsim35.for -o taxsim35.exe
+</xmp>
+
+If you need source code I can supply that. It is a single f90 file, and 
+only 2 lines need changing for f77. In that case your compiler will 
+complain about f0.2 and i0 format specifiers. Just change the 0 to 14 for 
+pure f77 code.
+
+<hr>
+<i>Last modified 23 March 2022 by feenberg@nber.org</i>
+
