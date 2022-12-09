@@ -18,7 +18,7 @@ nav_order: 2
 
 **Economic Benefits of COVID-19 Screening Tests**, with [Andrew G. Atkeson](https://sites.google.com/site/andyatkeson/), [Michael J. Mina](https://ccdd.hsph.harvard.edu/people/michael-mina/), and [James H. Stock](https://scholar.harvard.edu/stock/home). 2021. ([PDF](https://www.nber.org/papers/w28031))
 
-**Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland**, with Karl Aspelund, [James H. Stock](https://scholar.harvard.edu/stock/home), and Chris Walker. 2020. ([PDF](https://www.medrxiv.org/content/10.1101/2020.04.06.20055582v2.full)) <br><br>
+**Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland**, with [Karl Aspelund](https://economics.mit.edu/people/phd-students/karl-m-aspelund), [James H. Stock](https://scholar.harvard.edu/stock/home), and [Chris Walker](https://economics.harvard.edu/people/chris-walker). 2020. ([PDF](https://www.medrxiv.org/content/10.1101/2020.04.06.20055582v2.full)) <br><br>
 
 
 ### In Progress
