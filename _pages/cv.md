@@ -77,7 +77,7 @@ nav_order: 1
 				
 				<h5 class="borderbottom"><b>Service and Affiliations</b></h5>
 				<ul class="list-unstyled">
-					<li><b>Referee</b>: <em>Quarterly Journal of Economics</em>, <em>Journal of Economic Theory</em>, <em>American Economic Journal: Economic Policy</em></li>
+					<li><b>Referee</b>: <em>American Economic Review</em>, <em>Quarterly Journal of Economics</em>, <em>Journal of Economic Theory</em>, <em>American Economic Journal: Economic Policy</em></li>
 					<p>&nbsp;</p>
 				</ul>
 				
