@@ -39,17 +39,18 @@ nav_order: 1
 					<li><b>Secondary Field</b>: Econometrics</li>
 				</ul>
 
+				<br>
 				<h5 class="borderbottom"><b>Publications</b></h5>
 					<p>"Adapting to the Pandemic" (with James H. Stock). 2021. <em>American Economic Association: Papers &amp; Proceedings 111</em>: 351-355.<br></p>
 
-				
+				<br>
 				<h5 class="borderbottom"><b>Working Papers</b></h5>
 					<p>"The Static, Dynamic, and Distributional Effects of State Business Taxes" (with Drew Burd, Owen Zidar, and Eric Zwick). 2022.</p>
 					<p>"Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions" (with Yuriy Gorodnichenko and Walker Ray). 2021. <em>Revise and Resubmit at the Journal of Political Economy</em>.</p>
 					<p>"Economic Benefits of COVID-19 Screening Tests" (with Andrew G. Atkinson, Michael J. Mina, and James H. Stock). 2021.</p>
 					<p>"Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland" (with Karl Aspelund, James H. Stock, and Chris Walker). 2020.</p>
 
-				
+				<br>
 				<h5 class="borderbottom"><b>Employment</b></h5>
 					<span class="empty_fill">
 						<span itemprop="affiliation" style="float:left;">Research Assistant to Emmanuel Farhi and James H. Stock, Harvard University</span>
@@ -67,7 +68,7 @@ nav_order: 1
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
 				
-				<br><br><br><br>
+				<br><br><br>
 				<h5 class="borderbottom"><b>Teaching</b></h5>
 				<ul class="list-unstyled">
 					<li><b>Undergraduate</b>: EC1010B, EC1011B, EC1152 (Harvard)<br></li>
