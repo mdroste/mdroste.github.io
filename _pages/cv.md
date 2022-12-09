@@ -52,17 +52,17 @@ nav_order: 1
 				
 				<h5 class="borderbottom"><b>Employment</b></h5>
 					<span class="empty_fill">
-						<span itemprop="affiliation" style="float:left;">Harvard University, Research Assistant to Emmanuel Farhi and James H. Stock </span>
+						<span itemprop="affiliation" style="float:left;">Research Assistant to Emmanuel Farhi and James H. Stock, Harvard University</span>
 						<span itemprop="affiliation" style="float:right;">2016-2018</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
 					<span class="empty_fill">
-						<span itemprop="affiliation" style="float:left;">Stanford Institute for Economic Policy Research, Pre-Doctoral Fellow</span>
+						<span itemprop="affiliation" style="float:left;">Pre-Doctoral Fellow, Stanford Institute for Economic Policy Research</span>
 						<span itemprop="affiliation" style="float:right;">2016-2018</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
 					<span class="empty_fill">
-						<span itemprop="affiliation" style="float:left;">Board of Governors of the Federal Reserve System, Research Assistant, Advanced Foreign Economies</span>
+						<span itemprop="affiliation" style="float:left;">Research Assistant, Board of Governors of the Federal Reserve System</span>
 						<span itemprop="affiliation" style="float:right;">2014-2016</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
