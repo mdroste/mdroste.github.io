@@ -44,6 +44,7 @@ nav_order: 1
 
 				
 				<h5 class="borderbottom"><b>Working Papers</b></h5>
+					<p>"The Static, Dynamic, and Distributional Effects of State Business Taxes" (with Drew Burd, Owen Zidar, and Eric Zwick). 2022.</p>
 					<p>"Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions" (with Yuriy Gorodnichenko and Walker Ray). 2021. <em>Revise and Resubmit at the Journal of Political Economy</em>.</p>
 					<p>"Economic Benefits of COVID-19 Screening Tests" (with Andrew G. Atkinson, Michael J. Mina, and James H. Stock). 2021.</p>
 					<p>"Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland" (with Karl Aspelund, James H. Stock, and Chris Walker). 2020.</p>
@@ -51,12 +52,17 @@ nav_order: 1
 				
 				<h5 class="borderbottom"><b>Employment</b></h5>
 					<span class="empty_fill">
-						<span itemprop="affiliation" style="float:left;">Pre-Doctoral Fellow, Stanford Institute for Economic Policy Research (SIEPR)</span>
+						<span itemprop="affiliation" style="float:left;">Harvard University, Research Assistant to Emmanuel Farhi and James H. Stock </span>
 						<span itemprop="affiliation" style="float:right;">2016-2018</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
 					<span class="empty_fill">
-						<span itemprop="affiliation" style="float:left;">Research Assistant, Board of Governors of the Federal Reserve System</span>
+						<span itemprop="affiliation" style="float:left;">Stanford Institute for Economic Policy Research, Pre-Doctoral Fellow</span>
+						<span itemprop="affiliation" style="float:right;">2016-2018</span>
+						<span itemprop="affiliation" style="float:none; clear:both;"></span>
+					</span>
+					<span class="empty_fill">
+						<span itemprop="affiliation" style="float:left;">Board of Governors of the Federal Reserve System, Research Assistant, Advanced Foreign Economies</span>
 						<span itemprop="affiliation" style="float:right;">2014-2016</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>

@@ -19,3 +19,8 @@ nav_order: 2
 **Economic Benefits of COVID-19 Screening Tests**, with [Andrew G. Atkeson](https://sites.google.com/site/andyatkeson/), [Michael J. Mina](https://ccdd.hsph.harvard.edu/people/michael-mina/), and [James H. Stock](https://scholar.harvard.edu/stock/home). 2021. ([PDF](https://www.nber.org/papers/w28031))
 
 **Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland**, with Karl Aspelund, [James H. Stock](https://scholar.harvard.edu/stock/home), and Chris Walker. 2020. ([PDF](https://www.medrxiv.org/content/10.1101/2020.04.06.20055582v2.full))
+
+
+### In Progress
+
+**The Static, Dynamic, and Distributional Effects of State Business Taxes**, with Drew Burd, [Owen Zidar](https://zidar.princeton.edu/), and [Eric Zwick](http://www.ericzwick.com/). 2022. </p>
