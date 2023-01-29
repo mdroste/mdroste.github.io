@@ -54,7 +54,7 @@ nav_order: 1
 				<h5 class="borderbottom"><b>Employment</b></h5>
 					<span class="empty_fill">
 						<span itemprop="affiliation" style="float:left;">Research Assistant to Emmanuel Farhi and James H. Stock, Harvard University</span>
-						<span itemprop="affiliation" style="float:right;">2016-2018</span>
+						<span itemprop="affiliation" style="float:right;">2020-2021</span>
 						<span itemprop="affiliation" style="float:none; clear:both;"></span>
 					</span>
 					<span class="empty_fill">
