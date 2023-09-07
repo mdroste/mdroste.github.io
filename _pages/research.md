@@ -14,7 +14,7 @@ nav_order: 2
 
 ### Other Publications
 
-**Policies for Electrifying the Light-Duty Vehicle Fleet in the United States**, with [Cassandra Cole](), [Christopher Knittel](https://mitsloan.mit.edu/faculty/directory/christopher-knittel), [Shanjun Li](http://li.dyson.cornell.edu/), and [James H. Stock](https://scholar.harvard.edu/stock/home). 2023. *American Economic Association: Papers & Proceedings* 113: 316-322. ([PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20231063)) <br><br>
+**Policies for Electrifying the Light-Duty Vehicle Fleet in the United States**, with [Cassandra Cole](https://heep.hks.harvard.edu/people/cassandra-cole), [Christopher Knittel](https://mitsloan.mit.edu/faculty/directory/christopher-knittel), [Shanjun Li](http://li.dyson.cornell.edu/), and [James H. Stock](https://scholar.harvard.edu/stock/home). 2023. *American Economic Association: Papers & Proceedings* 113: 316-322. ([PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20231063)) <br><br>
 
 **Adapting to the COVID-19 Pandemic**, with [James H. Stock](https://scholar.harvard.edu/stock/home). 2021. *American Economic Association: Papers & Proceedings* 111: 351-355. ([PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20211063)) <br><br>
 
