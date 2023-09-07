@@ -41,12 +41,14 @@ nav_order: 1
 
 				<br>
 				<h5 class="borderbottom"><b>Publications</b></h5>
-					<p>"Adapting to the Pandemic" (with James H. Stock). 2021. <em>American Economic Association: Papers &amp; Proceedings 111</em>: 351-355.<br></p>
+					<p>"Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions" (with Yuriy Gorodnichenko and Walker Ray). 2023. <em>Accepted for publication at the Journal of Political Economy</em>.</p>
+					<p>"Policies for Electrifying the Light-Duty Vehicle Fleet in the United States" (with Cassandra Cole, Christopher Knittel, Shanjun Li, and James H. Stock). 2023. <em>American Economic Association: Papers &amp; Proceedings 113</em>: 316-322.</p>
+					<p>"Adapting to the Pandemic" (with James H. Stock). 2021. <em>American Economic Association: Papers &amp; Proceedings 111</em>: 351-355.</p>
 
 				<br>
 				<h5 class="borderbottom"><b>Working Papers</b></h5>
+					<p>"Strategic Complementarities in Wage Posting." 2023.</p>
 					<p>"The Static, Dynamic, and Distributional Effects of State Business Taxes" (with Drew Burd, Owen Zidar, and Eric Zwick). 2022.</p>
-					<p>"Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions" (with Yuriy Gorodnichenko and Walker Ray). 2021. <em>Revise and Resubmit at the Journal of Political Economy</em>.</p>
 					<p>"Economic Benefits of COVID-19 Screening Tests" (with Andrew G. Atkinson, Michael J. Mina, and James H. Stock). 2021.</p>
 					<p>"Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland" (with Karl Aspelund, James H. Stock, and Chris Walker). 2020.</p>
 
