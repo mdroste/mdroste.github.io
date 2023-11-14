@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Peer-Reviewed Publications
 
-**Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions**, with [Yuriy Gorodnichenko](https://eml.berkeley.edu/~ygorodni/) and [Walker Ray](https://sites.google.com/view/walkerdray). 2023. ([PDF](https://eml.berkeley.edu/~ygorodni/tauction.pdf)). *Accepted for publication at the Journal of Political Economy*. <br><br>
+**Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions**, with [Yuriy Gorodnichenko](https://eml.berkeley.edu/~ygorodni/) and [Walker Ray](https://sites.google.com/view/walkerdray). 2023. ([PDF](https://www.mdroste.com/files/tauctionx.pdf)). *Accepted for publication at the Journal of Political Economy*. <br><br>
 
 
 ### Other Publications
