@@ -26,11 +26,11 @@ Cambridge MA 02138
 
 ### References
 
-Xavier Gabaix ([xgabaix@fas.harvard.edu](mailto:xgabaix@fas.harvard.edu))
+* Xavier Gabaix ([xgabaix@fas.harvard.edu](mailto:xgabaix@fas.harvard.edu))
 
-Gabriel Chodorow-Reich ([chodorowreich@fas.harvard.edu](mailto:chodorowreich@fas.harvard.edu))
+* Gabriel Chodorow-Reich ([chodorowreich@fas.harvard.edu](mailto:chodorowreich@fas.harvard.edu))
 
-Ludwig Straub ([ludwigstraub@g.harvard.edu](mailto:ludwigstraub@g.harvard.edu))
+* Ludwig Straub ([ludwigstraub@g.harvard.edu](mailto:ludwigstraub@g.harvard.edu))
 
 
 
