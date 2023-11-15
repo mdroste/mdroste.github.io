@@ -21,4 +21,4 @@ I study macroeconomics and public finance. I have broad research interests in th
 
 I am on the 2023-2024 economics job market. I would be delighted to speak with you about my research! You can find more information about my job market paper on my [job market webpage](/jobmarket). 
 
-You can contact me by email at mdroste@fas.harvard.edu.
+You can contact me by email at [mdroste@fas.harvard.edu](mailto:mdroste@fas.harvard.edu).
