@@ -10,6 +10,8 @@ nav_order: 3
 
 I am on the 2023-2024 economics job market. <br>
 
+My research fields are macroeconomics and public finance. I am interested in studying the real effects of fiscal and monetary policy, with a particular focus on labor market dynamics. <br>
+
 You can download my CV by [clicking here](/files/cv.pdf). <br>
 
 
