@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-I am on the 2023-2024 economics job market. You can find my CV [here](/files/cv.pdf).
+I am on the 2023-2024 economics job market. You can find my CV [here](/files/cv.pdf). I would be delighted to speak with you about my research at any time.
 
 
 
