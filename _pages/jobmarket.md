@@ -10,7 +10,7 @@ nav_order: 3
 
 I am on the 2023-2024 economics job market. <br>
 
-You can download my CV by [clickign here](/files/cv.pdf).
+You can download my CV by [clicking here](/files/cv.pdf). <br>
 
 
 
