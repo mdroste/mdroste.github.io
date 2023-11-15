@@ -14,26 +14,24 @@ I am on the 2023-2024 economics job market. You can find my CV [here](/files/cv.
 
 ### Contact
 
-Littauer Center 307
-
-1805 Cambridge St
-
-Cambridge MA 02138
-
-[mdroste@fas.harvard.edu](mailto:mdroste@fas.harvard.edu)
+Littauer Center 307 <br>
+1805 Cambridge St <br>
+Cambridge MA 02138 <br>
+[mdroste@fas.harvard.edu](mailto:mdroste@fas.harvard.edu) <br>
 
 
 
 ### References
 
-* Xavier Gabaix ([xgabaix@fas.harvard.edu](mailto:xgabaix@fas.harvard.edu))
-* Gabriel Chodorow-Reich ([chodorowreich@fas.harvard.edu](mailto:chodorowreich@fas.harvard.edu))
-* Ludwig Straub ([ludwigstraub@g.harvard.edu](mailto:ludwigstraub@g.harvard.edu))
+Xavier Gabaix ([xgabaix@fas.harvard.edu](mailto:xgabaix@fas.harvard.edu)) <br>
+Gabriel Chodorow-Reich ([chodorowreich@fas.harvard.edu](mailto:chodorowreich@fas.harvard.edu)) <br>
+Ludwig Straub ([ludwigstraub@g.harvard.edu](mailto:ludwigstraub@g.harvard.edu)) <br>
 
 
 
 ### Job Market Paper
 
-This paper studies strategic complementarity in the wage-posting decision of firms. I begin by developing a reduced-form empirical design to estimate the elasticity of firms' posted wages with respect to the average wage of their competitors. My exposure-based design leverages spatial variation in the density of national wage setters, firms that do not vary wages across local labor markets, as a source of differential exposure to aggregate shocks. Using the near-universe of online U.S. job postings from 2010-2023, I estimate that the average elasticity of posted wages with respect to competitors' wages is between 0.05 and 0.15. I interpret the macroeconomic relevance of my empirical findings through the lens of a New Keynesian model with monopsonistic labor markets. In this model, wage-setting complementarities arise through non-constant markdowns or decreasing returns to scale, flexibly capturing the sources of wage-setting complementarity in a broad class of existing macroeconomic frameworks. Although wage-setting complementarities can act as a powerful source of real rigidity in my model, my estimates suggest a starkly lower degree of wage-setting complementarity than is commonly assumed in existing work. My estimates provide an important "portable moment" to discipline the calibration of models with imperfectly competitive labor markets, and provide a new tool to measure strategic complementarities in other price-setting environments with observational data. 
+Imperfectly competitive labor markets often exhibit strategic complementarity in wage-setting: wage-setting depends positively on the wages set by other agents. How important is this mechanism for macroeconomic dynamics? I develop a reduced-form empirical design to estimate the magnitude of strategic complementarity in posted wages using the near-universe of online job postings from 2010 to 2023. My design leverages spatial variation in exposure to \textit{national wage-setters}, firms that do not vary posted wages across local labor markets, as a source of differential exposure to aggregate shocks. My preferred estimates indicate a modest degree of complementarity in posted wages: posted wages increase by 0.10\% in response to a 1\% increase in competitors' wages. I assess the quantitative relevance of these results through the lens of a New Keynesian model with monopsonistic labor markets. Wage complementarities are a powerful source of real rigidity in this model; however, my empirical evidence suggests the effect of this channel is limited. My results suggest that the degree of strategic complementarity in wages is lower than many models implicitly assume, and provide an important portable moment to discipline models with imperfectly competitive labor markets.
+
 
 Draft available shortly!
