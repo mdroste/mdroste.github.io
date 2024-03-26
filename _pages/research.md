@@ -21,7 +21,7 @@ nav_order: 2
 
 ### Working Papers
 
-**Strategic Complementarities in Posted Wages**. Job market paper. [Click here for more information, including the draft.](/jobmarket)
+**Strategic Complementarities in Posted Wages**. Job market paper. [(PDF)](/files/jmp_droste_current.pdf)
 
 **Economic Benefits of COVID-19 Screening Tests**, with [Andrew G. Atkeson](https://sites.google.com/site/andyatkeson/), [Michael J. Mina](https://ccdd.hsph.harvard.edu/people/michael-mina/), and [James H. Stock](https://scholar.harvard.edu/stock/home). 2021. ([PDF](https://www.nber.org/papers/w28031))
 
