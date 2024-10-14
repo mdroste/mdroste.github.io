@@ -23,7 +23,7 @@ nav_order: 2
 
 ### Working Papers
 
-**Strategic Complementarities in Posted Wages**. Job market paper. [(PDF)](/files/jmp_droste_current.pdf)
+**Strategic Complementarities in Posted Wages**. 2024. Job market paper. [(PDF)](/files/jmp_droste_current.pdf)
 
 **Identification and Estimation of Undetected COVID-19 Cases: Evidence from Iceland**, with [Karl Aspelund](https://economics.mit.edu/people/phd-students/karl-m-aspelund), [James H. Stock](https://scholar.harvard.edu/stock/home), and [Chris Walker](https://economics.harvard.edu/people/chris-walker). 2020. ([PDF](https://www.medrxiv.org/content/10.1101/2020.04.06.20055582v2.full)) <br><br>
 
