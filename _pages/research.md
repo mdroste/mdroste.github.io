@@ -30,4 +30,4 @@ nav_order: 2
 
 ### In Progress
 
-**The Static, Dynamic, and Distributional Effects of State Business Taxes**, with [Drew Burd](https://economics.uchicago.edu/directory/samuel-burd), [Owen Zidar](https://zidar.princeton.edu/), and [Eric Zwick](http://www.ericzwick.com/). 2023.
+**The Static, Dynamic, and Distributional Effects of State Business Taxes**, with [Drew Burd](https://economics.uchicago.edu/directory/samuel-burd), [Owen Zidar](https://zidar.princeton.edu/), and [Eric Zwick](http://www.ericzwick.com/). 2024.
