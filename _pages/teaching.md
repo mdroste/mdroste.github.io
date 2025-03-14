@@ -30,4 +30,4 @@ nav_order: 3
 
 ## Other 
 
-I was an honors examiner for [Erin Bronchetti]()'s outstanding honors seminar in public economics at Swarthmore in Spring 2024. ([Honors exam](http://mdroste.com/files/ec141_honors_exam_spring24.pdf))
+I was an honors examiner for [Erin Bronchetti](https://www.swarthmore.edu/profile/erin-bronchetti)'s outstanding honors seminar in public economics at Swarthmore in Spring 2024. ([Honors exam](http://mdroste.com/files/ec141_honors_exam_spring24.pdf))
