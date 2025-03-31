@@ -11,9 +11,9 @@ I enjoy teaching, and had the pleasure to help out with some great classes as a 
 
 ## Graduate
 
-<b>Economics 2450A: Public Economics and Fiscal Policy I</b>
+<p style="margin-bottom: 0.1rem;"><b>Economics 2450A: Public Economics and Fiscal Policy I</b></p>
 <details markdown=block><summary markdown=span>Details (click to expand)</summary>
-  
+
   - Fall 2022 (with [Stefanie Stantcheva](https://scholar.harvard.edu/stantcheva/home)): [section materials](https://www.mdroste.com/ec2450a), [evaluations](https://mdroste.com/files/evaluations_ec2450a_fall2022.pdf)
 </details><br>
 
