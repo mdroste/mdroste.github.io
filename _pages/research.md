@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-## Economics Publications
+## Publications
 
 <b>Unbundling Quantitative Easing: Taking a Cue from Treasury Auctions</b><br>
   (with [Yuriy Gorodnichenko](https://eml.berkeley.edu/~ygorodni/) and [Walker Ray](https://sites.google.com/view/walkerdray))<br>
@@ -18,10 +18,7 @@ nav_order: 2
 
 
 
-
-
 ## Working Papers
-
 
 
 <b>Strategic Complementarities in Posted Wages</b><br>
@@ -39,13 +36,12 @@ nav_order: 2
 <b>Policies for Electrifying the Light-Duty Vehicle Fleet in the United States</b><br>
   (with [Cassandra Cole](https://heep.hks.harvard.edu/people/cassandra-cole), [Christopher Knittel](https://mitsloan.mit.edu/faculty/directory/christopher-knittel), [Shanjun Li](http://li.dyson.cornell.edu/), and [James H. Stock](https://scholar.harvard.edu/stock/home))<br>
   <i>American Economic Association: Papers & Proceedings</i> 113 (2023), pgs. 316--322<br>
-  Paper: [PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20231063)<br><br>
-
+  Paper: [PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20231063)<br>
 
 <b>Adapting to the COVID-19 Pandemic</b><br>
   (with [James H. Stock](https://scholar.harvard.edu/stock/home))<br>
   <i>American Economic Association: Papers & Proceedings</i> 111 (2021), pgs. 351--355<br>
-  Paper: [PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20211063)<br><br>
+  Paper: [PDF](https://www.aeaweb.org/articles?id=10.1257/pandp.20211063)<br>
 
 <b>Economic Benefits of COVID-19 Screening Tests</b><br>
   (with [Andrew G. Atkeson](https://sites.google.com/site/andyatkeson/), [Michael J. Mina](https://ccdd.hsph.harvard.edu/people/michael-mina/), and [James H. Stock](https://scholar.harvard.edu/stock/home))<br>
