@@ -11,8 +11,11 @@ I enjoy teaching, and had the pleasure to help out with some great classes as a 
 
 ## Graduate
 
-##### Economics 2450A: Public Economics and Fiscal Policy I
-  - Fall 2022, with [Stefanie Stantcheva](https://scholar.harvard.edu/stantcheva/home) ([section slides](https://mdroste.com/ec2450a), [evaluations](https://mdroste.com/files/evaluations_ec2450a_fall2022.pdf))
+<details markdown=block>
+<summary markdown=span>Economics 2450A: Public Economics and Fiscal Policy I</summary>
+  
+- Fall 2022, with [Stefanie Stantcheva](https://scholar.harvard.edu/stantcheva/home) ([section slides](https://mdroste.com/ec2450a), [evaluations](https://mdroste.com/files/evaluations_ec2450a_fall2022.pdf))
+</details>
 
 ##### Harvard Econometrics Math Camp ([materials](http://www.github.com/mdroste/metrics-mathcamp-2021))
   - Summer 2020 and 2021 
