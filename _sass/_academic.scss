@@ -1,0 +1,156 @@
+// Shared research and teaching styles with compact entry spacing.
+.academic-page {
+  --academic-text: #242a2b;
+  --academic-muted: #626b6d;
+  --academic-accent: #8b293b;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+
+  h1, h2, h3, p, em { color: var(--academic-text); }
+
+  .post-title {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 2.6875rem;
+    font-weight: 400;
+    line-height: 1.15;
+    letter-spacing: -1px;
+    margin-bottom: 14px;
+  }
+
+  .post-description {
+    max-width: 620px;
+    color: var(--academic-muted);
+    font-size: inherit;
+    line-height: inherit;
+    margin-bottom: 34px;
+  }
+
+  .academic-section {
+    margin-top: 36px;
+
+    > h2 {
+      color: var(--academic-muted);
+      font-size: 0.875rem;
+      font-weight: 500;
+      line-height: 1.5;
+      letter-spacing: 1.8px;
+      text-transform: uppercase;
+      margin: 0;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--global-divider-color);
+    }
+  }
+
+  .academic-entry {
+    padding: 20px 0;
+
+    + .academic-entry { border-top: 1px solid var(--global-divider-color); }
+
+    h3 {
+      font-size: 1.125rem;
+      font-weight: 500;
+      line-height: 1.4;
+      letter-spacing: -0.25px;
+      margin: 0 0 4px;
+    }
+
+    p { margin: 2px 0; }
+
+  }
+
+  .entry-meta {
+    color: var(--academic-muted);
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-color: var(--global-divider-color);
+
+      &:hover { text-decoration-color: currentColor; }
+    }
+  }
+
+  a {
+    color: var(--academic-accent);
+    font-size: inherit;
+    font-weight: 400;
+    text-decoration: none;
+    text-underline-offset: 3px;
+
+    &:hover { text-decoration: underline; }
+  }
+
+  .entry-resources {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2px 16px;
+    margin-top: 4px;
+  }
+
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--academic-accent);
+    outline-offset: 4px;
+  }
+
+  .course-heading, .paper-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: start;
+    gap: 12px;
+  }
+
+  .course-term, .paper-year {
+    color: var(--academic-muted);
+    white-space: nowrap;
+    padding-top: 2px;
+  }
+
+  .course-code {
+    color: var(--academic-muted);
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin: 0 0 4px;
+  }
+
+  .earlier-offerings {
+    margin-top: 6px;
+
+    summary {
+      color: var(--academic-muted);
+      font-size: inherit;
+      width: fit-content;
+      padding: 2px 0;
+      cursor: pointer;
+    }
+  }
+
+  .past-term {
+    padding-left: 12px;
+    border-left: 1px solid var(--global-divider-color);
+    margin-top: 8px;
+  }
+
+  @media (max-width: 575px) {
+    .post-title { font-size: 2.25rem; }
+    .academic-entry h3 { font-size: 1.0625rem; }
+    .course-heading, .paper-heading { grid-template-columns: 1fr; gap: 0; }
+    .course-term, .paper-year { padding: 0; margin-bottom: 2px; }
+  }
+
+  @media (pointer: coarse) {
+    .entry-resources { margin-top: 0; }
+    .entry-resources a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 44px;
+    }
+    .earlier-offerings summary { min-height: 44px; }
+  }
+}
+
+html[data-theme="dark"] .academic-page {
+  --academic-text: #eeede8;
+  --academic-muted: #b1b9bb;
+  --academic-accent: #83c9d8;
+}

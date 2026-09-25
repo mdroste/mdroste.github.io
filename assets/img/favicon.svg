@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Michael Droste</title>
+  <rect width="64" height="64" rx="10" fill="#8b293b"/>
+  <g fill="#fff7e8">
+    <path d="M8 47V17h6l6 13 6-13h6v30h-6V29l-6 12-6-12v18Z"/>
+    <path fill-rule="evenodd" d="M36 17h8c9 0 14 5 14 15s-5 15-14 15h-8Zm6 6v18h2c5 0 8-3 8-9s-3-9-8-9Z"/>
+  </g>
+</svg>
