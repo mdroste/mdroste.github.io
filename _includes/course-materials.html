@@ -1,0 +1,9 @@
+<ol class="materials-list" role="list" aria-label="Section materials">
+  {% for material in site.data.course_materials[include.course] %}
+  <li>
+    <span class="material-week">{{ material.week | escape }}</span>
+    <span class="material-topic">{{ material.topic | escape }}</span>
+    <a class="material-link" href="{{ material.file | relative_url }}" aria-label="{{ material.label | default: 'Slides PDF' | escape }}: {{ material.topic | escape }}">{{ material.label | default: 'Slides PDF' }}</a>
+  </li>
+  {% endfor %}
+</ol>

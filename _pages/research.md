@@ -33,7 +33,7 @@ nav_order: 2
       <h3>Strategic Complementarities in Posted Wages</h3>
       <span class="paper-year">2026</span>
     </div>
-    <p class="entry-meta">Job market paper</p>
+    <p class="entry-meta">Job market paper. In revision</p>
     <div class="entry-resources">
       <a href="{{ '/files/jmp_droste_current.pdf' | relative_url }}">Paper</a>
     </div>
@@ -51,6 +51,19 @@ nav_order: 2
 
 <section class="academic-section" aria-labelledby="policy-papers">
   <h2 id="policy-papers">Policy Papers</h2>
+
+  <article class="academic-entry">
+    <div class="paper-heading">
+      <h3>Economic Benefits of COVID-19 Screening Tests</h3>
+      <span class="paper-year">2024</span>
+    </div>
+    <p class="entry-meta">With <a href="https://sites.google.com/site/andyatkeson/">Andrew G. Atkeson</a>, <a href="https://ccdd.hsph.harvard.edu/people/michael-mina/">Michael J. Mina</a>, and <a href="https://scholar.harvard.edu/stock/home">James H. Stock</a></p>
+    <p><em>Review of Economic Design</em> <span class="entry-meta">28, 689–722</span></p>
+    <div class="entry-resources">
+      <a href="https://www.nber.org/papers/w28031">Paper</a>
+      <a href="https://link.springer.com/article/10.1007/s10058-024-00361-1">DOI</a>
+    </div>
+  </article>
 
   <article class="academic-entry">
     <div class="paper-heading">
@@ -73,19 +86,6 @@ nav_order: 2
     <p><em>American Economic Association: Papers &amp; Proceedings</em> <span class="entry-meta">111, 351–355</span></p>
     <div class="entry-resources">
       <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20211063">Paper</a>
-    </div>
-  </article>
-
-  <article class="academic-entry">
-    <div class="paper-heading">
-      <h3>Economic Benefits of COVID-19 Screening Tests</h3>
-      <span class="paper-year">2024</span>
-    </div>
-    <p class="entry-meta">With <a href="https://sites.google.com/site/andyatkeson/">Andrew G. Atkeson</a>, <a href="https://ccdd.hsph.harvard.edu/people/michael-mina/">Michael J. Mina</a>, and <a href="https://scholar.harvard.edu/stock/home">James H. Stock</a></p>
-    <p><em>Review of Economic Design</em> <span class="entry-meta">28, 689–722</span></p>
-    <div class="entry-resources">
-      <a href="https://www.nber.org/papers/w28031">Paper</a>
-      <a href="https://link.springer.com/article/10.1007/s10058-024-00361-1">DOI</a>
     </div>
   </article>
 </section>

@@ -18,6 +18,7 @@ nav_order: 3
     <p class="entry-meta">Co-taught with <a href="https://sites.google.com/view/pkurlat/home">Pablo Kurlat</a></p>
     <div class="entry-resources">
       <a href="{{ '/files/syllabus_econ605_spring2026.pdf' | relative_url }}">Syllabus</a>
+      <a href="{{ '/files/evaluations_econ605_spring2026.pdf' | relative_url }}">Evaluations</a>
     </div>
   </article>
 
